@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Helper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Helper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6629BB4B-6343-48E9-AB55-BB9F80DF7749}|ArrayStudy\\ArrayStudy.vcxproj|solutionrelative:ArrayStudy\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Map.cpp",
-              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.cpp",
-              "RelativeDocumentMoniker": "ArrayStudy\\Map.cpp",
-              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.cpp",
-              "RelativeToolTip": "ArrayStudy\\Map.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T11:39:34.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Map.h",
               "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.h",
               "RelativeDocumentMoniker": "ArrayStudy\\Map.h",
@@ -59,15 +55,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Helper.h",
               "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Helper.h",
               "RelativeDocumentMoniker": "ArrayStudy\\Helper.h",
               "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Helper.h",
               "RelativeToolTip": "ArrayStudy\\Helper.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-17T11:31:33.731Z"
+              "WhenOpened": "2024-07-17T11:31:33.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.h",
+              "RelativeDocumentMoniker": "ArrayStudy\\Player.h",
+              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.h",
+              "RelativeToolTip": "ArrayStudy\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T12:03:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCoding.cpp",
+              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\GameCoding.cpp",
+              "RelativeDocumentMoniker": "ArrayStudy\\GameCoding.cpp",
+              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\GameCoding.cpp",
+              "RelativeToolTip": "ArrayStudy\\GameCoding.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T07:31:36.982Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -77,28 +100,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.h",
-              "RelativeDocumentMoniker": "ArrayStudy\\Player.h",
-              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.h",
-              "RelativeToolTip": "ArrayStudy\\Player.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-17T12:03:23.59Z",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.cpp",
+              "RelativeDocumentMoniker": "ArrayStudy\\Player.cpp",
+              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Player.cpp",
+              "RelativeToolTip": "ArrayStudy\\Player.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T07:32:44.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\FileName.cpp",
-              "RelativeDocumentMoniker": "ArrayStudy\\FileName.cpp",
-              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\FileName.cpp",
-              "RelativeToolTip": "ArrayStudy\\FileName.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.cpp",
+              "RelativeDocumentMoniker": "ArrayStudy\\Map.cpp",
+              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Map.cpp",
+              "RelativeToolTip": "ArrayStudy\\Map.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T07:31:36.982Z"
+              "WhenOpened": "2024-07-17T11:39:34.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cpp",
+              "DocumentMoniker": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Helper.cpp",
+              "RelativeDocumentMoniker": "ArrayStudy\\Helper.cpp",
+              "ToolTip": "C:\\Users\\nahan\\source\\repos\\ArrayStudy\\ArrayStudy\\Helper.cpp",
+              "RelativeToolTip": "ArrayStudy\\Helper.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T07:33:10.582Z",
+              "EditorCaption": ""
             }
           ]
         }
